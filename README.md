@@ -1,4 +1,4 @@
-# The Tic Tac Toe Project
+# The Tic Tac Toe (version 2) Project
 
 ## Build instructions
 
