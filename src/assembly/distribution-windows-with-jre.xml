@@ -33,7 +33,7 @@
             <filtered>true</filtered>
         </fileSet>
         <fileSet>
-            <directory>.tmp/jre17-windows</directory>
+            <directory>.tmp/jre-windows</directory>
            <outputDirectory>jre</outputDirectory>
         </fileSet>
     </fileSets>
